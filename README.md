@@ -1,6 +1,6 @@
 # timeline
 timeline demo and description
- Timeline 模型，在实现feed流同步和存储时还会有各方面的技术权衡，例如如何对消息同步常见的读扩散和写扩散（推模式，拉模式）两种模型进行对比和选择，以及针对 Timeline 模型的特征如何来选择底层存储结构（目前的方式，仅有redis + mysql）。
+ Timeline 模型，在实现feed流同步和存储时还会有各方面的技术权衡，例如如何对消息同步常见的读扩散和写扩散（推模式，拉模式）两种模型进行对比和选择，以及针对 Timeline 模型的特征如何来选择底层存储结构（目前社区的方式，仅有redis + mysql）。
 
  架构模型：
   
